@@ -1,6 +1,7 @@
 # pfa_desafio1
 
 cd ~/
+
 docker network create pfa
 
 mkdir pfa_desafio1
